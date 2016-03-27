@@ -1,0 +1,28 @@
+name: InFlo
+favicon: null
+layout_spectrum: 0.9615407702513039
+typography_spectrum: 0.4935241611674428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.34024798683822155
+  lightness: 0.6716080475598574
+  saturation: 0.04777226387523115
+  rhythmicContrast: 0.2977530872449279
+purpose: []
